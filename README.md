@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Winfry</h1>
 <h3 align="center">A passionate Data and Machine Learning Enthusiast</h3>
 
-- 🔭 I’m currently working on **Predictive Bills and Computer Vision**
+- 🔭 I’m currently working on **Perfecting my skills on Natural Language Processing Engineering**
 
 - 🌱 I’m currently learning **Selenium**
 
-- 💬 Ask me about **Data and Backend**
+- 💬 Ask me about **Machine Learning and Anything Data!**
 
 - 📫 How to reach me **winfrynyarangi@gmail.com**
 
