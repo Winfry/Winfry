@@ -23,3 +23,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=winfry77&show_icons=true&locale=en" alt="winfry77" /></p>
 
+
+
+## My Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Winfry&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Winfry&theme=radical"/>|
+|---|---|
+
+
